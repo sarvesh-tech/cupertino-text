@@ -1,6 +1,6 @@
 {
   "name": "cupertino-text",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A beautiful Cupertino-style slide-down fade-in text animation effect for React applications, with Apple-style staggered animations",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -34,12 +34,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/cupertino-text.git"
+    "url": "https://github.com/sarvesh-tech/cupertino-text.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/cupertino-text/issues"
+    "url": "https://github.com/sarvesh-tech/cupertino-text/issues"
   },
-  "homepage": "https://github.com/yourusername/cupertino-text#readme",
+  "homepage": "https://github.com/sarvesh-tech/cupertino-text#readme",
   "peerDependencies": {
     "react": ">=16.8.0",
     "react-dom": ">=16.8.0"
