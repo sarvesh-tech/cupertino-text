@@ -1,4 +1,4 @@
-# CupertinoText
+# Cupertino Text
 
 A beautiful Cupertino-style slide-down fade-in text animation effect for React applications, featuring Apple's signature staggered animations that create engaging visual experiences.
 
