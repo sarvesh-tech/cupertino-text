@@ -1,0 +1,31 @@
+# Source files (users don't need these)
+src/
+
+# Development files
+rollup.config.js
+.babelrc
+tsconfig.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Tests
+__tests__/
+*.test.js
+*.spec.js
+
+# Documentation development
+docs/
+
+# Logs
+*.log
+npm-debug.log*
