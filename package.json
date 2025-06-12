@@ -1,6 +1,6 @@
 {
   "name": "cupertino-text",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A beautiful Cupertino-style slide-down fade-in text animation effect for React applications, with Apple-style staggered animations",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
